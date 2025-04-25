@@ -1,0 +1,352 @@
+University of Rajshahi
+Information and Communication Engineering
+even
+4
+8
+Computer Programming with C
+CSE1291
+3
+1
+Computer Programming with C Lab
+CSE1292
+1.5
+2
+Electronics-II
+APEE1291
+3
+1
+Differential and Integral Calculus
+MATH1211
+3
+1
+Statistics for Engineers
+STAT1211
+2
+1
+Applied Electricity and Magnetism
+PHY1221
+3
+1
+Economics
+ECON1211
+2
+1
+Electronics-II Lab
+ICE1222
+1.5
+2
+7
+Electromagnetic Fields and Waves
+ICE2211
+3
+1
+Cellular and Mobile Communication
+ICE2221
+3
+1
+Signals and Systems
+ICE2231
+2
+1
+Signals and Systems Lab
+ICE2232
+2
+2
+Data Structures
+CSE2261
+3
+1
+Data Structure Lab
+CSE2262
+2
+2
+Discrete Mathematics  and Numerical Methods
+MATH2221
+3
+1
+7
+Java and Network Programming 
+ICE3211 
+4
+1
+Java and Network Programming Lab 
+ICE3212
+2
+2
+Digital Communication 
+ICE3221 
+4
+1
+Digital Communication Lab 
+ICE3222 
+1
+2
+Telecommunication System, Networks and Switching 
+ICE3231
+4
+1
+Optical Fiber Communication
+ICE3241 
+2
+1
+Optical Fiber Communication Lab 
+ICE3242 
+1
+2
+5
+Computer Networks 
+ICE4211 
+4
+1
+Computer Networks Lab 
+ICE4212 
+2
+2
+Fundamentals of Cryptography 
+ICE4221
+4
+1
+Cryptography Lab 
+ICE4222 
+2
+2
+Information Theory and Coding 
+ICE4231 
+4
+1
+23
+Dr. Rubaiyat Yasmin
+RY
+4
+1
+CSE1291 2
+1
+ICE2232 2
+0
+0
+
+Dr.Dipankar Das
+DD
+4
+2
+CSE1292 2
+CSE1291 1
+2
+CSE2262 2
+CSE2261 2
+0
+1
+ICE4212 2
+Dr. A. M. Abdur Rahman
+AMAR
+4
+1
+ICE1222 2
+0
+0
+1
+ICE4211 3
+Dr. Md Emdadul Haque
+EH
+4
+1
+CSE1292 2
+4
+ICE2231 1
+CSE2262 2
+ICE2221 2
+ICE2232 2
+0
+0
+Dr. M. A. F. M. Rashedul Hasan
+RH
+3
+0
+0
+1
+ICE3222 1
+2
+ICE4231 2
+ICE4222 3
+Md. Sajjadur Rahim
+SR
+4
+1
+CSE1292 2
+0
+2
+ICE3231 2
+ICE3212 2
+0
+Dr. Firoz Ahmed 1
+FA1
+3
+1
+CSE1292 2
+0
+2
+ICE3211 2
+ICE3212 2
+2
+ICE4211 3
+ICE4222 3
+Dr. Halida Homaira
+HH
+3
+2
+APEE1291 2
+ICE1222 2
+0
+0
+0
+Dr. Hasnat Kabir
+HK
+3
+1
+ICE1222 2
+1
+CSE2262 2
+2
+ICE3241 1
+ICE3242 1
+1
+ICE4231 3
+Matikul Islam
+MI
+2
+0
+0
+2
+ICE3211 2
+ICE3212 2
+0
+Mustari Zaman 
+MZ
+1
+0
+1
+ICE2231 1
+2
+ICE3221 2
+ICE3222 1
+1
+ICE4222 3
+Laila Naznin
+LN
+3
+2
+APEE1291 1
+ICE1222 2
+1
+ICE2211 1
+2
+ICE3231 2
+ICE3222 1
+0
+Dr. Md. Golam Rashed
+GR
+3
+0
+1
+CSE2261 1
+1
+ICE3221 2
+2
+ICE4212 2
+ICE4221 3
+Md. Firoz Ahmed 2
+FA2
+2
+0
+1
+ICE2211 2
+2
+ICE3241 1
+ICE3242 1
+0
+Riaz Hossain
+MRH
+2
+0
+2
+ICE2221 1
+ICE2232 2
+1
+ICE3242 1
+2
+ICE4212 2
+ICE4221 2
+Liakot Ali
+LA
+1
+1
+PHY1221 2
+0
+0
+0
+Nazmul Hossain
+NH
+1
+1
+PHY1221 1
+0
+0
+0
+Saju R Rayhan
+SRR
+2
+1
+MATH1211 2
+1
+MATH2221 1
+0
+0
+Julfiker Ali
+JI
+1
+1
+MATH1211 1
+1
+MATH2221 2
+0
+0
+Zihadur Rahman Zihad 
+ZRZ
+1
+1
+ECON1211 1
+0
+0
+0
+Abdur Rahim
+AR
+2
+1
+ECON1211 1
+0
+0
+0
+Pintu Hossain 
+PH
+2
+1
+STAT1211 1
+0
+0
+0
+Provash Kumar
+PK
+2
+1
+STAT1211 1
+0
+0
+0
+5
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Tuesday
+11
